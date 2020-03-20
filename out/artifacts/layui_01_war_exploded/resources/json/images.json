@@ -1,0 +1,43 @@
+{
+  "title": "我的相册",
+  "id": 123,
+  "start": 0,
+  "data": [
+    {
+      "alt": "图片名1",
+      "pid": 1,
+      "src": "resources/images/01.jpg",
+      "thumb": "resources/images/01.jpg"
+    },
+    {
+      "alt": "图片名2",
+      "pid": 2,
+      "src": "resources/images/02.jpg",
+      "thumb": "resources/images/02.jpg"
+    },
+    {
+      "alt": "图片名3",
+      "pid": 3,
+      "src": "resources/images/03.jpg",
+      "thumb": "resources/images/03.jpg"
+    },
+    {
+      "alt": "图片名4",
+      "pid": 4,
+      "src": "resources/images/04.jpg",
+      "thumb": "resources/images/04.jpg"
+    },
+    {
+      "alt": "图片名5",
+      "pid": 5,
+      "src": "resources/images/05.jpg",
+      "thumb": "resources/images/05.jpg"
+    },
+    {
+      "alt": "图片名6",
+      "pid": 6,
+      "src": "resources/images/06.jpg",
+      "thumb": "resources/images/06.jpg"
+    }
+  ]
+}
